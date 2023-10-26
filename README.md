@@ -33,3 +33,23 @@ To run this project locally, follow these steps:
 
 ```bash
 git clone https://github.com/PradeepVPK/GrievanveApplicationn.git
+```
+Set up the Angular environment and Spring Boot development environment.
+
+Configure the database and application properties.
+
+Run the frontend and backend servers.
+
+Access the application at http://localhost:your-frontend-port.
+
+Team
+This project was developed by a team of three students:
+
+[Pradeep.V](https://github.com/PradeepVPK)
+[Pretheeba.U](https://github.com/Pretheeba-U)
+[Prakash.S](https://github.com/Prakashs)
+
+## License
+
+This project is licensed under the MIT License.
+
